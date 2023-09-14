@@ -9,17 +9,17 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
-  - title: "Posts"
-    url: /posts/
+  # - title: "Posts"
+  #   url: /posts/
     
   - title: "CV"
     url: /cv/
 
-  - title: "Projects"
-    url: /myprojects/
+  # - title: "Projects"
+  #   url: /myprojects/
 
-  - title: "PyScanCf"
-    url: /PyScanCf/
+  # - title: "PyScanCf"
+  #   url: /PyScanCf/
 
-  - title: "Resource Hub"
-    url: /ResourceHub/
+  # - title: "Resource Hub"
+  #   url: /ResourceHub/
