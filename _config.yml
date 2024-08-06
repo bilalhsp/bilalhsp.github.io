@@ -107,6 +107,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "bilalhsp"
+  huggingface      : "bilalhsp"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -118,6 +119,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
