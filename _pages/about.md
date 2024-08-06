@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "About me"
 excerpt: "Home"
@@ -33,4 +33,4 @@ Thank you for joining me on this captivating journey through my academic and pro
 <!-- <div style="max-height: 300px; overflow-y: scroll;">
   <a class="twitter-timeline" data-width="300" href="https://twitter.com/HamidRixvi?ref_src=twsrc%5Etfw">My recent tweets</a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div> -->
+</div> --> -->
