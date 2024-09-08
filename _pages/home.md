@@ -13,7 +13,7 @@ redirect_from:
 
 
 <center>
-**PhD student specializing in auditory processing with deep learning models, seeking an internship**  
+PhD student specializing in auditory processing with deep learning models, seeking an internship  
 to further explore machine learning applications and gain experience.
 </center>
 
@@ -50,7 +50,8 @@ to further explore machine learning applications and gain experience.
 </table>
 
 <!-- </div> -->
-<!-- <div style="display: flex; justify-content: center; padding: 20px;">
+
+<div style="display: flex; justify-content: center; padding: 20px;">
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -71,12 +72,13 @@ to further explore machine learning applications and gain experience.
   </tr>
 </table> -->
 
-<!-- </div> --> 
-|  |   |
+</div> 
+
+<!-- |  |   |  
 |-------------------------------|------------------------|
 | • Introduction to Deep Learning (A+)   | • Estimation Theory (A)   |
 | • Deep Learning (A+)      | • Computational Imaging (Image Processing II) (A)       |
-| • Generative Models (A)     | • Computer Vision (In-progress)                        |
+| • Generative Models (A)     | • Computer Vision (In-progress)                        | -->
 
 
 ## Skills
