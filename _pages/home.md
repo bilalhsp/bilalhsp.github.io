@@ -28,29 +28,7 @@ to further explore machine learning applications and gain experience.
 
 
 ## Selected Courses
-<!-- <div style="display: flex; justify-content: center;">
-
-<table style="border-collapse: collapse; border: none; margin: 0 auto;">
-  <tr>
-    <td style="padding-right: 20px;">
-      <ul>
-        <li>Introduction to Deep Learning (A+)</li>
-        <li>Deep Learning (A+)</li>
-        <li>Estimation Theory (A)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Generative Models (A)</li>
-        <li>Computational Imaging (Image Processing II) (A)</li>
-        <li>Computer Vision (In-progress)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- </div> -->
-
+<!-- 
 <div style="display: flex; justify-content: center; padding: 20px;">
 
 <table style="border-collapse: collapse; border: none;">
@@ -70,15 +48,24 @@ to further explore machine learning applications and gain experience.
       </ul>
     </td>
   </tr>
-</table> -->
+</table>
 
 </div> 
+ -->
+
+- Deep Learning (A+)
+- Generative Models (A)
+- Estimation Theory (A)
+- Computational Imaging (Image Processing II) (A)
+- Computer Vision (In-progress)
+
 
 <!-- |  |   |  
 |-------------------------------|------------------------|
 | • Introduction to Deep Learning (A+)   | • Estimation Theory (A)   |
 | • Deep Learning (A+)      | • Computational Imaging (Image Processing II) (A)       |
-| • Generative Models (A)     | • Computer Vision (In-progress)                        | -->
+| • Generative Models (A)     | • Computer Vision (In-progress)                        |
+ -->
 
 
 ## Skills
