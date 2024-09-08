@@ -9,7 +9,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN.  
+<!-- I am a graduate student doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN.   -->
 
 
 <center>
@@ -26,10 +26,27 @@ to further explore machine learning applications and gain experience.
   B.Sc. in Electrical Engineering (with Honours) (Aug 2011 -- Jun 2015)  
   GPA: 3.859/4.0
 
-## Relevant Coursework
+<!-- ## Relevant Coursework
 - **Introduction to Deep Learning (A+)** | **Generative Models (A)**
 - **Deep Learning (A+)** | **Computational Imaging (Image Processing II) (A)**
-- **Estimation Theory (A)** | **Computer Vision (In-progress)**
+- **Estimation Theory (A)** | **Computer Vision (In-progress)** -->
+## Relevant Coursework
+
+<table>
+  <tr>
+    <td>• **Introduction to Deep Learning (A+)**</td>
+    <td>• **Generative Models (A)**</td>
+  </tr>
+  <tr>
+    <td>• **Deep Learning (A+)**</td>
+    <td>• **Computational Imaging (Image Processing II) (A)**</td>
+  </tr>
+  <tr>
+    <td>• **Estimation Theory (A)**</td>
+    <td>• **Computer Vision (In-progress)**</td>
+  </tr>
+</table>
+
 
 ## Skills
 - **Programming Languages:** Python, C, MATLAB
