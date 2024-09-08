@@ -30,9 +30,9 @@ to further explore machine learning applications and gain experience.
 - **Introduction to Deep Learning (A+)** | **Generative Models (A)**
 - **Deep Learning (A+)** | **Computational Imaging (Image Processing II) (A)**
 - **Estimation Theory (A)** | **Computer Vision (In-progress)** -->
-## Relevant Coursework
+<!-- ## Relevant Coursework -->
 
-<table>
+<!-- <table>
   <tr>
     <td>• **Introduction to Deep Learning (A+)**</td>
     <td>• **Generative Models (A)**</td>
@@ -45,7 +45,24 @@ to further explore machine learning applications and gain experience.
     <td>• **Estimation Theory (A)**</td>
     <td>• **Computer Vision (In-progress)**</td>
   </tr>
+</table> -->
+## Selected Coursework
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">  • Introduction to Deep Learning (A+)</td>
+    <td style="border: none;">• Generative Models (A)</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;">• Deep Learning (A+)</td>
+    <td style="border: none;">• Computational Imaging (Image Processing II) (A)</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;">• Estimation Theory (A)</td>
+    <td style="border: none;">• Computer Vision (In-progress)</td>
+  </tr>
 </table>
+
 
 
 ## Skills
