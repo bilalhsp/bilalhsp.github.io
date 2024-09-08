@@ -18,50 +18,40 @@ to further explore machine learning applications and gain experience.
 </center>
 
 ## Education
-- **Purdue University** - West Lafayette, IN  
+**Purdue University** - West Lafayette, IN  
   Ph.D. in Electrical & Computer Engineering (Aug 2021 -- Present)  
   GPA: 3.87/4.0
 
-- **University of Engineering & Technology Lahore** - Lahore, Pakistan  
+**University of Engineering & Technology Lahore** - Lahore, Pakistan  
   B.Sc. in Electrical Engineering (with Honours) (Aug 2011 -- Jun 2015)  
   GPA: 3.859/4.0
 
-<!-- ## Relevant Coursework
-- **Introduction to Deep Learning (A+)** | **Generative Models (A)**
-- **Deep Learning (A+)** | **Computational Imaging (Image Processing II) (A)**
-- **Estimation Theory (A)** | **Computer Vision (In-progress)** -->
-<!-- ## Relevant Coursework -->
 
-<!-- <table>
-  <tr>
-    <td>• **Introduction to Deep Learning (A+)**</td>
-    <td>• **Generative Models (A)**</td>
-  </tr>
-  <tr>
-    <td>• **Deep Learning (A+)**</td>
-    <td>• **Computational Imaging (Image Processing II) (A)**</td>
-  </tr>
-  <tr>
-    <td>• **Estimation Theory (A)**</td>
-    <td>• **Computer Vision (In-progress)**</td>
-  </tr>
-</table> -->
-## Selected Coursework
+## Selected Courses
+<div style="display: flex; justify-content: center;">
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">  • Introduction to Deep Learning (A+)</td>
-    <td style="border: none;">• Generative Models (A)</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;">• Deep Learning (A+)</td>
-    <td style="border: none;">• Computational Imaging (Image Processing II) (A)</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;">• Estimation Theory (A)</td>
-    <td style="border: none;">• Computer Vision (In-progress)</td>
+<table style="border-collapse: collapse; border: none; margin: 0 auto;">
+  <tr>
+    <td style="padding-right: 20px;">
+      <ul>
+        <li>Introduction to Deep Learning (A+)</li>
+        <li>Deep Learning (A+)</li>
+        <li>Estimation Theory (A)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Generative Models (A)</li>
+        <li>Computational Imaging (Image Processing II) (A)</li>
+        <li>Computer Vision (In-progress)</li>
+      </ul>
+    </td>
   </tr>
 </table>
+
+</div>
+
+
 
 
 
