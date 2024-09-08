@@ -18,17 +18,17 @@ to further explore machine learning applications and gain experience.
 </center>
 
 ## Education
-**Purdue University** - West Lafayette, IN  
+- **Purdue University** - West Lafayette, IN  
   Ph.D. in Electrical & Computer Engineering (Aug 2021 -- Present)  
   GPA: 3.87/4.0
 
-**University of Engineering & Technology Lahore** - Lahore, Pakistan  
+- **University of Engineering & Technology Lahore** - Lahore, Pakistan  
   B.Sc. in Electrical Engineering (with Honours) (Aug 2011 -- Jun 2015)  
   GPA: 3.859/4.0
 
 
 ## Selected Courses
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
 
 <table style="border-collapse: collapse; border: none; margin: 0 auto;">
   <tr>
@@ -49,10 +49,29 @@ to further explore machine learning applications and gain experience.
   </tr>
 </table>
 
+</div> -->
+<div style="display: flex; justify-content: center; padding: 20px;">
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding: 10px;">
+      <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+        <li>Introduction to Deep Learning (A+)</li>
+        <li>Deep Learning (A+)</li>
+        <li>Estimation Theory (A)</li>
+      </ul>
+    </td>
+    <td style="padding: 10px;">
+      <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+        <li>Generative Models (A)</li>
+        <li>Computational Imaging (Image Processing II) (A)</li>
+        <li>Computer Vision (In-progress)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 </div>
-
-
-
 
 
 ## Skills
