@@ -13,7 +13,7 @@ redirect_from:
 
 
 <center>
-I am a graduate student doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN. I have experience of more than 5 years of working as Maintenance Engineer in a manufacturing facility in Pakistan. During that time I developed interest in Machine Learning so I decided to pursue that. I started my PhD in Fall 2021 and my first project was on modelling the auditory cortex in squirrel monkeys using pretrained deep learning models. Manuscript is uploaded on bioRxiv ([link here](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract)) and sent out for review. 
+I am a graduate student doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN. I have experience of more than 5 years of working as Maintenance Engineer in a manufacturing facility in Pakistan. During that time I developed interest in Machine Learning so I decided to pursue that. I started my PhD in Fall 2021 and my first project was on modelling the auditory cortex in squirrel monkeys using pretrained deep learning models. Manuscript is uploaded on bioRxiv ( [link here](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract) ) and sent out for review. 
 I am currently working on application of diffusion models as priors for Audio models. The goal is to explain the audio models with the help of audio diffusion models. Other than my ongoing work, I have keen interest in generative models, computer vision, probabilisitic modelling and their applications.  
 I am looking for an internship opportunities to explore my interest further.
 
@@ -58,7 +58,7 @@ I am looking for an internship opportunities to explore my interest further.
 </div> 
  -->
 
-- Computer Vision [Link to projects summary](https://github.com/bilalhsp/computer-vision)
+- Computer Vision <sub>[projects summary](https://github.com/bilalhsp/computer-vision)</sub>
 - Deep Learning 
 - Generative Models
 - Computational Imaging 
