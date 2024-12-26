@@ -9,12 +9,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- I am a graduate student doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN.   -->
+
 
 
 <center>
-PhD student specializing in auditory processing with deep learning models, seeking an internship  
-to further explore machine learning applications and gain experience.
+I am a graduate student doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN. I have experience of more than 5 years of working as Maintenance Engineer in a manufacturing facility in Pakistan. During that time I developed interest in Machine Learning so I decided to pursue that. I started my PhD in Fall 2021 and my first project was on modelling the auditory cortex in squirrel monkeys using pretrained deep learning models. Manuscript is uploaded on bioRxiv ([link here](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract)) and sent out for review. 
+I am currently working on application of diffusion models as priors for Audio models. The goal is to explain the audio models with the help of audio diffusion models. Other than my ongoing work, I have keen interest in generative models, computer vision, probabilisitic modelling and their applications.  
+I am looking for an internship opportunities to explore my interest further.
+
+
+<!-- PhD student specializing in auditory processing with deep learning models, seeking an internship   -->
+<!-- to further explore machine learning applications and gain experience. -->
 </center>
 
 ## Education
@@ -27,7 +32,7 @@ to further explore machine learning applications and gain experience.
   GPA: 3.859/4.0
 
 
-## Selected Courses
+## Relevant Coursework
 <!-- 
 <div style="display: flex; justify-content: center; padding: 20px;">
 
@@ -53,11 +58,12 @@ to further explore machine learning applications and gain experience.
 </div> 
  -->
 
-- Deep Learning (A+)
-- Generative Models (A)
-- Estimation Theory (A)
-- Computational Imaging (Image Processing II) (A)
-- Computer Vision (In-progress)
+- Computer Vision [Link to projects summary](https://github.com/bilalhsp/computer-vision)
+- Deep Learning 
+- Generative Models
+- Computational Imaging 
+- Estimation Theory
+
 
 
 <!-- |  |   |  
