@@ -14,7 +14,7 @@ redirect_from:
 
 <center>
     <p>
-        I am a graduate student doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN. I have experience of more than 5 years of working as a Maintenance Engineer in a manufacturing facility in Pakistan. During that time, I developed an interest in Machine Learning, so I decided to pursue that. I started my PhD in Fall 2021, and my first project was on modelling the auditory cortex in squirrel monkeys using pretrained deep learning models. Manuscript is uploaded on bioRxiv 
+        I am doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN. I have experience of more than 5 years of working as a Maintenance Engineer in a manufacturing facility in Pakistan. During that time, I developed an interest in Machine Learning, so I decided to pursue it. My first project was on modelling the auditory cortex in squirrel monkeys using pretrained deep learning models. Manuscript is uploaded on bioRxiv 
         <a href="https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract" target="_blank">[link here]</a> and sent out for review.
     </p>
     <p>
@@ -34,9 +34,10 @@ I am looking for internship opportunities to explore my interest further. -->
 ## Recent Updates 📢
 
 - 📰 **[Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract)**  
-  Published on **November 14, 2024**.  
+  Published on **November 14, 2024** on **BioRxiv** (preprint, under peer review).  
   [Read on BioRxiv](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract).
 
+### Blogs ✍️  
 - ✍️ **[How Neural Networks Learn: A Probabilistic Viewpoint](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2)**  
   Published on **December 25, 2024** on **TDS (Towards Data Science)**.  
   [Read on Medium](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2).
@@ -46,7 +47,7 @@ I am looking for internship opportunities to explore my interest further. -->
   [Read on Medium](https://medium.com/gopenai/pretraining-wav2vec2-using-huggingface-trainer-api-19fbf2fc6bf2).
 
 
-
+<!-- 
 ## Education
 - **Purdue University** - West Lafayette, IN  
   Ph.D. in Electrical & Computer Engineering (Aug 2021 -- Present)  
@@ -54,7 +55,7 @@ I am looking for internship opportunities to explore my interest further. -->
 
 - **University of Engineering & Technology Lahore** - Lahore, Pakistan  
   B.Sc. in Electrical Engineering (with Honours) (Aug 2011 -- Jun 2015)  
-  GPA: 3.859/4.0
+  GPA: 3.859/4.0 -->
 
 
 ## Relevant Coursework
