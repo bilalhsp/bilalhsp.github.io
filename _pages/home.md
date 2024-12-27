@@ -51,8 +51,8 @@ I am looking for internship opportunities to explore my interest further. -->
   Published on **December 25, 2024** on **TDS (Towards Data Science)**.  
   In this blog, we dive into the concept of Bayesian Inference and neural networks.  
 
-  <div style="float: right; margin-left: 20px; margin-bottom: 10px;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VlUMj6R5fvLPGngx19Mrhg.png" alt="Blog Image" style="max-width: 150 px;">
+  <div style="float: right; margin-left: 20px; max-width: 150px;">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VlUMj6R5fvLPGngx19Mrhg.png" alt="Blog Image" style="width: 100%; height: auto;">
   </div>
 
   [Read on Medium](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2).
