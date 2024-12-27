@@ -47,14 +47,16 @@ I am looking for internship opportunities to explore my interest further. -->
   [Read on Medium](https://medium.com/gopenai/pretraining-wav2vec2-using-huggingface-trainer-api-19fbf2fc6bf2).
 
 
+- ✍️ **[How Neural Networks Learn: A Probabilistic Viewpoint](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2)**  
+  Published on **December 25, 2024** on **TDS (Towards Data Science)**.  
+  In this blog, we dive into the concept of Bayesian Inference and neural networks.  
 
----
-title: "How Neural Networks Learn: A Probabilistic Viewpoint"
-date: 2024-12-25
-excerpt: "This blog explains the probabilistic approach to neural network learning..."
-url: "https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2"
-image: "![link-to-image.jpg](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VlUMj6R5fvLPGngx19Mrhg.png)"
----
+  <div style="float: right; margin-left: 20px; margin-bottom: 10px;">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VlUMj6R5fvLPGngx19Mrhg.png" alt="Blog Image" style="max-width: 250px;">
+  </div>
+
+  [Read on Medium](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2).
+
 
 <!-- 
 ## Education
