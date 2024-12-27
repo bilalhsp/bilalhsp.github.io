@@ -58,6 +58,26 @@ I am looking for internship opportunities to explore my interest further. -->
   [Read on Medium](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2).
 
 
+
+
+<div>
+  <p>✍️ <strong><a href="https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2">How Neural Networks Learn: A Probabilistic Viewpoint</a></strong></p>
+  <p>Published on <strong>December 25, 2024</strong> on <strong>TDS (Towards Data Science)</strong>.</p>
+  <p>In this blog, we dive into the concept of Bayesian Inference and neural networks.</p>
+
+  <div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+      <p>In this blog, we dive into the concept of Bayesian Inference and how it applies to neural networks.</p>
+      <a href="https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2">Read on Medium</a>
+    </div>
+    <div style="max-width: 250px; margin-left: 20px;">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VlUMj6R5fvLPGngx19Mrhg.png" alt="Blog Image" style="width: 100%; height: auto;">
+    </div>
+  </div>
+</div>
+
+
+
 <!-- 
 ## Education
 - **Purdue University** - West Lafayette, IN  
