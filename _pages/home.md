@@ -23,11 +23,29 @@ redirect_from:
     </p>
 </center>
 
+
 <!-- I am a graduate student doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN. 
 I have experience of more than 5 years of working as Maintenance Engineer in a manufacturing facility in Pakistan. During that time, I developed an interest in Machine Learning so I decided to pursue that. I started my PhD in Fall 2021, and my first project was on modelling the auditory cortex in squirrel monkeys using pretrained deep learning models. Manuscript is uploaded on bioRxiv [link here](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract) and sent out for review.   
 I am currently working on application of diffusion models as priors for Audio models. The goal is to explain/interpret the audio models with the help of audio diffusion models. Other than my ongoing work, I have keen interest in generative models, computer vision, 
 probabilistic modelling, and their applications.  
 I am looking for internship opportunities to explore my interest further. -->
+
+
+## Recent Updates 📢
+
+- 📰 **[Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract)**  
+  Published on **November 14, 2024**.  
+  [Read on BioRxiv](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract).
+
+- ✍️ **[How Neural Networks Learn: A Probabilistic Viewpoint](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2)**  
+  Published on **December 25, 2024** on **TDS (Towards Data Science)**.  
+  [Read on Medium](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2).
+
+- 🖋️ **[Pretraining wav2vec2 Using Hugging Face Trainer API](https://medium.com/gopenai/pretraining-wav2vec2-using-huggingface-trainer-api-19fbf2fc6bf2)**  
+  Published on **November 2, 2024** on **goPenAI**.  
+  [Read on Medium](https://medium.com/gopenai/pretraining-wav2vec2-using-huggingface-trainer-api-19fbf2fc6bf2).
+
+
 
 ## Education
 - **Purdue University** - West Lafayette, IN  
