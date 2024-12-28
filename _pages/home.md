@@ -115,8 +115,9 @@ I am looking for internship opportunities to explore my interest further. -->
 
 - **Purdue University** - West Lafayette, IN  
   *Graduate Research Assistant* (Aug 2021 -- Present)  
-  - Working on modeling the auditory cortex using deep learning models.
-  - Comparing hidden layer representations of speech recognition models to neural data from the auditory cortex in macaque monkeys.
+  - Working on using diffusion models as priors for interpreting audio models.
+  - Auditory cortex modelling in squirrel monkeys, using pretrained deep learning models. (preprint on bioarXiv,
+under review).
   - Trained the wav2letter speech-to-text model from scratch on LibriSpeech (960 hours) utilizing up to 8 GPUs.
   - Trained a self-supervised wav2vec2 model on a subset of the Audioset dataset (excluding speech and music) as a general audio processor, using up to 4 GPUs.
 
