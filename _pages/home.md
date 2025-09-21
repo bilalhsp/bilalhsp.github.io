@@ -30,30 +30,19 @@ I am a PhD student in **Electrical and Computer Engineering (ECE)** at **Purdue 
 
 ---
 
-### 📚 Learning Goals
-
-- 📈 **Numerical solutions of ODEs**  
-- 🛠️ Diving deeper into **self-supervised and generative modeling techniques**  
-
----
-
 ### 💼 Opportunities
 
 I am open to **internship opportunities** to further explore these areas.  
 
-
-
-<!-- I am a graduate student doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN. 
-I have experience of more than 5 years of working as Maintenance Engineer in a manufacturing facility in Pakistan. During that time, I developed an interest in Machine Learning so I decided to pursue that. I started my PhD in Fall 2021, and my first project was on modelling the auditory cortex in squirrel monkeys using pretrained deep learning models. Manuscript is uploaded on bioRxiv [link here](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract) and sent out for review.   
-I am currently working on application of diffusion models as priors for Audio models. The goal is to explain/interpret the audio models with the help of audio diffusion models. Other than my ongoing work, I have keen interest in generative models, computer vision, 
-probabilistic modelling, and their applications.  
-I am looking for internship opportunities to explore my interest further. -->
-
+---
 
 ## Recent Updates 📢
 
-- 📰 **Paper published in PLOS Computational Biology!**  
+- 📰 **New paper published in PLOS Computational Biology!**  
   [Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)
+
+- 🎓 **Teaching Assistantship (Fall 2025)**  
+  Serving as a TA for the graduate course **ECE-60131: General Models** at Purdue University.
 
 
 ---
