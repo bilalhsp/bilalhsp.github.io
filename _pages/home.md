@@ -12,16 +12,26 @@ redirect_from:
 
 
 
-<center>
-    <p>
-        I am doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN. I have experience of more than 5 years of working as a Maintenance Engineer in a manufacturing facility in Pakistan. During that time, I developed an interest in Machine Learning, so I decided to pursue it. My first project was on modelling the auditory cortex in squirrel monkeys using pretrained deep learning models. Manuscript is uploaded on bioRxiv 
-        <a href="https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract" target="_blank">[link here]</a> and sent out for review.
-    </p>
-    <p>
-        I am currently working on application of diffusion models as priors for audio models. The goal is to explain the audio models with the help of audio diffusion models. Other than my ongoing work, I have keen interest in generative models, computer vision, probabilistic modelling, and their applications.  
-        I am looking for internship opportunities to explore my interest further.
-    </p>
-</center>
+## 👋 About Me
+
+I am a PhD student in **Electrical and Computer Engineering (ECE)** at **Purdue University, West Lafayette, IN**. Previously, I worked for over 5 years as a Maintenance Engineer in a manufacturing facility in Pakistan, where I developed a strong interest in **Machine Learning**.
+
+My research focuses on:
+
+- Modeling the **auditory cortex** in squirrel monkeys using pretrained deep learning models.  
+  Manuscript: [Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)  
+
+- Applying **diffusion models** as priors for audio models to better understand and explain their behavior.  
+
+I am also interested in:
+
+- **Generative models**, **computer vision**, and **probabilistic modeling**  
+- Exploring applications of AI in real-world problems  
+
+I am currently **learning numerical solutions of ODEs** and diving deeper into **self-supervised and generative modeling techniques**.  
+
+I am open to **internship opportunities** to further explore these areas.
+
 
 
 <!-- I am a graduate student doing PhD in Electrical and Computer Engineering (ECE) at Purdue University, West Lafayette, IN. 
@@ -33,13 +43,9 @@ I am looking for internship opportunities to explore my interest further. -->
 
 ## Recent Updates 📢
 
-- 📰 **[Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)**  
-  Published on **August 25, 2025** in **PLOS Computational Biology**.  
-  **Abstract:** This study demonstrates how artificial neural networks (ANNs) trained on speech audio can predict spiking activity in the auditory cortex of squirrel monkeys at fine time scales (50 ms bins), outperforming traditional spectrotemporal receptive fields and untrained networks.  
-  [Read the full article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)
+- 📰 **Paper published in PLOS Computational Biology!**  
+  [Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)
 
-- 📝 Added new notes on diffusion models in [diffusion-hub](https://github.com/bilalhsp/diffusion-hub).  
-- 🎧 Updated pretraining scripts in [audio-dnn](https://github.com/bilalhsp/audio-dnn).
 
 ---
 
@@ -61,10 +67,6 @@ I am looking for internship opportunities to explore my interest further. -->
 ## Conferences
 - **COSYNE 2023** - Montreal, Canada  
   Poster: Understanding Auditory Cortex with Deep Neural Networks (Mar 9-12, 2023)
-
-## Activities & Hobbies
-- **Reading:** Investing, Economy, Business
-- **Sports:** Cricket, Badminton
 
 ### Blogs ✍️  
 - **[How Neural Networks Learn: A Probabilistic Viewpoint](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2)**  
@@ -121,6 +123,9 @@ I am looking for internship opportunities to explore my interest further. -->
 - Computational Imaging 
 - Estimation Theory
 
+## Activities & Hobbies
+- **Reading:** Investing, Economy, Business
+- **Sports:** Cricket, Badminton
 
 
 <!-- |  |   |  
