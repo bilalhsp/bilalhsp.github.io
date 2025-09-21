@@ -33,9 +33,38 @@ I am looking for internship opportunities to explore my interest further. -->
 
 ## Recent Updates 📢
 
-- 📰 **[Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract)**  
-  Published on **November 14, 2024** on **BioRxiv** (preprint, under peer review).  
-  [Read on BioRxiv](https://www.biorxiv.org/content/10.1101/2024.11.12.623280v1.abstract).
+- 📰 **[Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)**  
+  Published on **August 25, 2025** in **PLOS Computational Biology**.  
+  **Abstract:** This study demonstrates how artificial neural networks (ANNs) trained on speech audio can predict spiking activity in the auditory cortex of squirrel monkeys at fine time scales (50 ms bins), outperforming traditional spectrotemporal receptive fields and untrained networks.  
+  [Read the full article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)
+
+- 📝 Added new notes on diffusion models in [diffusion-hub](https://github.com/bilalhsp/diffusion-hub).  
+- 🎧 Updated pretraining scripts in [audio-dnn](https://github.com/bilalhsp/audio-dnn).
+
+---
+
+## 🔬 Publications
+
+- 📰 **[Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)**  
+  Published on **August 25, 2025** in **PLOS Computational Biology**.  
+  **DOI:** [10.1371/journal.pcbi.1013334](https://doi.org/10.1371/journal.pcbi.1013334)  
+  **Authors:** Bilal Ahmed, Joshua D. Downer, Brian J. Malone, Joseph G. Makin  
+  **Abstract:** This study demonstrates how artificial neural networks (ANNs) trained on speech audio can predict spiking activity in the auditory cortex of squirrel monkeys at fine time scales (50 ms bins), outperforming traditional spectrotemporal receptive fields and untrained networks.  
+  [Read the full article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)
+
+---
+
+---
+
+
+  
+## Conferences
+- **COSYNE 2023** - Montreal, Canada  
+  Poster: Understanding Auditory Cortex with Deep Neural Networks (Mar 9-12, 2023)
+
+## Activities & Hobbies
+- **Reading:** Investing, Economy, Business
+- **Sports:** Cricket, Badminton
 
 ### Blogs ✍️  
 - **[How Neural Networks Learn: A Probabilistic Viewpoint](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2)**  
@@ -98,18 +127,13 @@ I am looking for internship opportunities to explore my interest further. -->
 |-------------------------------|------------------------|
 | • Introduction to Deep Learning (A+)   | • Estimation Theory (A)   |
 | • Deep Learning (A+)      | • Computational Imaging (Image Processing II) (A)       |
-| • Generative Models (A)     | • Computer Vision (In-progress)                        |
- -->
+| • Generative Models (A)     | • Computer Vision (In-progress)      
 
 
 ## Skills
 - **Programming Languages:** Python, C, MATLAB
 - **Deep Learning Frameworks:** PyTorch, Scikit-learn, PyTorch-Lightning (multi-GPU training), Hugging Face
-- **Python Libraries:** NumPy, SciPy, Pandas, Matplotlib, scikit-image, transformers, torchaudio
-
-## Conferences
-- **COSYNE 2023** - Montreal, Canada  
-  Poster: Understanding Auditory Cortex with Deep Neural Networks (Mar 9-12, 2023)
+- **Python Libraries:** NumPy, SciPy, Pandas, Matplotlib, scikit-image, transformers, torchaudio|
 
 ## Work Experience
 
@@ -146,9 +170,12 @@ under review).
 ## Volunteering
 - Career Counselling to school children of rural areas (hometown) in Pakistan (2015 -- 2020)
 
-## Activities & Hobbies
-- **Reading:** Investing, Economy, Business
-- **Sports:** Cricket, Badminton
+
+ -->
+
+
+
+
 
 
 <!-- ================ -->
