@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "## 👋 About Me"
 excerpt: "About"
 author_profile: true
 header:
@@ -10,27 +10,36 @@ redirect_from:
   - /about.html
 ---
 
+I am a PhD student in **Electrical and Computer Engineering (ECE)** at **Purdue University, West Lafayette, IN**. Previously, I worked for over 5 years as a Maintenance Engineer in a manufacturing facility in Pakistan, where I developed a strong interest in **Machine Learning**.  
 
+---
 
-## 👋 About Me
+### 🔬 My Research Focus
 
-I am a PhD student in **Electrical and Computer Engineering (ECE)** at **Purdue University, West Lafayette, IN**. Previously, I worked for over 5 years as a Maintenance Engineer in a manufacturing facility in Pakistan, where I developed a strong interest in **Machine Learning**.
-
-My research focuses on:
-
-- Modeling the **auditory cortex** in squirrel monkeys using pretrained deep learning models.  
+- 🧠 Modeling the **auditory cortex** in squirrel monkeys using pretrained deep learning models.  
   Manuscript: [Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)  
 
-- Applying **diffusion models** as priors for audio models to better understand and explain their behavior.  
+- 🎵 Applying **diffusion models** as priors for audio models to better understand and explain their behavior.  
 
-I am also interested in:
+---
 
-- **Generative models**, **computer vision**, and **probabilistic modeling**  
-- Exploring applications of AI in real-world problems  
+### 🌟 Interests
 
-I am currently **learning numerical solutions of ODEs** and diving deeper into **self-supervised and generative modeling techniques**.  
+- 🤖 **Generative models**, **computer vision**, and **probabilistic modeling**  
+- 🌍 Exploring applications of AI in real-world problems  
 
-I am open to **internship opportunities** to further explore these areas.
+---
+
+### 📚 Learning Goals
+
+- 📈 **Numerical solutions of ODEs**  
+- 🛠️ Diving deeper into **self-supervised and generative modeling techniques**  
+
+---
+
+### 💼 Opportunities
+
+I am open to **internship opportunities** to further explore these areas.  
 
 
 
