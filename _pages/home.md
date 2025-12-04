@@ -15,11 +15,9 @@ I am a PhD student in **Electrical and Computer Engineering (ECE)** at **Purdue 
 ---
 
 ### 🔬 My Research Focus
-
+- 🔄 Solving inverse problems using **diffusion models** as priors.
 - 🧠 Modeling the **auditory cortex** in squirrel monkeys using pretrained deep learning models.  
   Manuscript: [Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)  
-
-- 🎵 Applying **diffusion models** as priors for audio models to better understand and explain their behavior.  
 
 ---
 
@@ -38,6 +36,9 @@ I am open to **internship opportunities** to further explore these areas.
 
 ## Recent Updates 📢
 
+- 📰 **New paper on arXiv**  
+  [Solving Diffusion Inverse Problems with Restart Posterior Sampling](https://arxiv.org/abs/2511.20705)
+  
 - 📰 **New paper published in PLOS Computational Biology!**  
   [Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)
 
