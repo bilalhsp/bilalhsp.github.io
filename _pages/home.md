@@ -30,13 +30,13 @@ I am a PhD student in **Electrical and Computer Engineering (ECE)** at **Purdue 
 
 ### 💼 Opportunities
 
-I am open to **internship opportunities** to further explore these areas.  
+I am open to internship opportunities in generative models or machine learning in general.
 
 ---
 
 ## Recent Updates 📢
 
-- 📰 **New paper on arXiv**  
+- 📰 **New paper on arXiv** 🔥
   [Solving Diffusion Inverse Problems with Restart Posterior Sampling](https://arxiv.org/abs/2511.20705)
   
 - 📰 **New paper published in PLOS Computational Biology!**  
