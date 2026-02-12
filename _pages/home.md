@@ -30,7 +30,7 @@ I am a PhD student in **AI & Neuroscience** at **Purdue University** (West Lafay
 
 ### 💼 Opportunities
 
-I am currently seeking internship opportunities in inverse problems, computational imaging, and broader applications of generative models.
+I am currently seeking Summer 2026 internship opportunities in inverse problems, computational imaging, and generative modeling. I expect to graduate in Summer 2026 and am open to research positions in both industry and academia thereafter.
 
 ---
 
