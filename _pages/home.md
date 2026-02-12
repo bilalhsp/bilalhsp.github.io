@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in **Electrical and Computer Engineering (ECE)** at **Purdue University, West Lafayette, IN**. Previously, I worked for over 5 years as a Maintenance Engineer in a manufacturing facility in Pakistan, where I developed a strong interest in **Machine Learning**.  
+I am a PhD student in **AI & Neuroscience** at **Purdue University** (West Lafayette, IN). Prior to starting my PhD, I worked for over five years as an **Instrumentation & Control Engineer** in a manufacturing facility in Pakistan, where I developed a strong interest in machine learning and data-driven problem solving.
 
 ---
 
@@ -23,14 +23,14 @@ I am a PhD student in **Electrical and Computer Engineering (ECE)** at **Purdue 
 
 ### 🌟 Interests
 
-- 🤖 **Generative models**, **computer vision**, and **probabilistic modeling**  
+- 🤖 **Generative models** & **computational imaging**  
 - 🌍 Exploring applications of AI in real-world problems  
 
 ---
 
 ### 💼 Opportunities
 
-I am open to internship opportunities in generative models or machine learning in general.
+I am currently seeking internship opportunities in inverse problems, computational imaging, and broader applications of generative models.
 
 ---
 
