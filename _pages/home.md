@@ -10,29 +10,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in **AI & Neuroscience** at **Purdue University** (West Lafayette, IN). Prior to starting my PhD, I worked for over five years as an **Instrumentation & Control Engineer** in a manufacturing facility in Pakistan, where I developed a strong interest in machine learning and data-driven problem solving.
+PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786). My research focuses on deep generative models, primarily diffusion-based methods, with applications in neuroscience, multi-modal learning, and computational imaging. I’m looking to apply this expertise in industry research roles.
+
+Previously, I worked for over five years as an Instrumentation & Control Engineer, leading a team of six and maintaining the plant’s distributed control systems, which strengthened my skills in technical problem solving, project planning, and team coordination.
 
 ---
 
 ### 🔬 My Research Focus
-- 🔄 Solving inverse problems using **diffusion models** as priors.
-- 🧠 Modeling the **auditory cortex** in squirrel monkeys using pretrained deep learning models.  
+- 🔄 applying diffusion models as priors for solving inverse problems in high-dimensional data.
+- 🧠 Modeling neural responses in the auditory cortex using pretrained deep learning models.  
   Manuscript: [Deep Neural Networks Explain Spiking Activity in Auditory Cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334)  
 
 ---
 
 ### 🌟 Interests
 
-- 🤖 **Generative models** & **computational imaging**  
-- 🌍 Exploring applications of AI in real-world problems  
+- 🤖 **Generative models** (diffusion, score-based, latent) and **computational imaging**  
+- 🌍 Multi-modal learning and real-world applications of AI
 
 ---
 
 ### 💼 Opportunities
 
-I am currently seeking Summer 2026 internship opportunities in inverse problems, computational imaging, and generative modeling. I expect to graduate in Summer 2026 and am open to research positions in both industry and academia thereafter.
-
----
+Seeking **Summer 2026 internships** in generative modeling, inverse problems, and computational imaging. Expected to graduate Summer 2026, open to **research roles in industry or postdoctoral positions in academia** thereafter.
 
 ## Recent Updates 📢
 
