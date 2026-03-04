@@ -10,9 +10,72 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786). My research focuses on deep generative models, primarily diffusion-based methods, with applications in neuroscience, multi-modal learning, and computational imaging. I’m looking to apply this expertise in industry research roles.
+PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786).
 
-Previously, I worked for over five years as an Instrumentation & Control Engineer, leading a team of six and maintaining the plant’s distributed control systems, which strengthened my skills in technical problem solving, project planning, and team coordination.
+My research focuses on **deep generative modeling**, particularly **diffusion and score-based methods**, with applications to inverse problems and neural data modeling. I am broadly interested in generative modeling (diffusion, latent, and related continuous-time approaches), multi-modal learning, and computational imaging, and in developing principled methods that bridge theory and real-world deployment.
+
+Prior to my PhD, I worked for over five years as an **Instrumentation & Control Engineer**, where I independently maintained and upgraded distributed control systems and led a team of six technicians. This experience strengthened my ability to execute high-stakes technical work with precision and rigor.
+
+---
+
+## 📢 Recent Updates
+
+- 🔥 **New arXiv paper (2025):**  
+  *Solving Diffusion Inverse Problems with Restart Posterior Sampling*  
+
+- 📰 **PLOS Computational Biology (2025):**  
+  *Deep Neural Networks Explain Spiking Activity in Auditory Cortex*
+
+- 🎓 Teaching Assistant — ECE-60131: General Models (Fall 2025)
+
+---
+
+## 🔬 Publications
+
+- **Solving Diffusion Inverse Problems with Restart Posterior Sampling**  
+  *arXiv, 2025*  
+  [arXiv](https://arxiv.org/abs/2511.20705)
+
+- **Deep Neural Networks Explain Spiking Activity in Auditory Cortex**  
+  *PLOS Computational Biology, 2025*  
+  [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334) 
+
+---
+
+## 🎤 Conferences
+
+- **COSYNE 2023** — Montreal, Canada  
+  Poster: *Understanding Auditory Cortex with Deep Neural Networks*
+
+---
+
+## ✍️ Writing
+
+- **How Neural Networks Learn: A Probabilistic Viewpoint**  
+  [Read on Medium](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2)
+
+- **Pretraining wav2vec2 Using Hugging Face Trainer API**  
+  [Read on Medium](https://medium.com/gopenai/pretraining-wav2vec2-using-huggingface-trainer-api-19fbf2fc6bf2)
+
+---
+
+## 🎯 Research Interests
+
+- Diffusion and score-based generative modeling  
+- Inverse problems and probabilistic inference  
+- Multi-modal learning  
+- Computational imaging  
+- Neural representation modeling  
+
+---
+
+## 🌱 Outside Research
+
+- Reading: Investing, economics, business  
+- Sports: Cricket, badminton
+
+
+<!-- 
 
 ---
 
@@ -77,7 +140,7 @@ Seeking **Summer 2026 internships** in generative modeling, inverse problems, an
   [Read on Medium](https://medium.com/gopenai/pretraining-wav2vec2-using-huggingface-trainer-api-19fbf2fc6bf2).
 
 
-
+-->
 
 <!-- 
 ## Education
@@ -87,7 +150,7 @@ Seeking **Summer 2026 internships** in generative modeling, inverse problems, an
 
 - **University of Engineering & Technology Lahore** - Lahore, Pakistan  
   B.Sc. in Electrical Engineering (with Honours) (Aug 2011 -- Jun 2015)  
-  GPA: 3.859/4.0 -->
+  GPA: 3.859/4.0 
 
 
 ## Relevant Coursework
@@ -114,7 +177,7 @@ Seeking **Summer 2026 internships** in generative modeling, inverse problems, an
 </table>
 
 </div> 
- -->
+
 
 - Computer Vision <sub>[projects summary](https://github.com/bilalhsp/computer-vision)</sub>
 - Deep Learning 
@@ -126,7 +189,7 @@ Seeking **Summer 2026 internships** in generative modeling, inverse problems, an
 - **Reading:** Investing, Economy, Business
 - **Sports:** Cricket, Badminton
 
-
+-->
 <!-- |  |   |  
 |-------------------------------|------------------------|
 | • Introduction to Deep Learning (A+)   | • Estimation Theory (A)   |
