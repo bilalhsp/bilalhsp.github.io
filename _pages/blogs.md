@@ -43,7 +43,6 @@ entries_layout: list
     <p style="margin-top:6px;">
       {{ post.summary }}
     </p>
-    <small>{{ post.date | date: "%b %d, %Y" }}</small>
   </div>
 
 </div>
