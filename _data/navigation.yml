@@ -9,8 +9,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
-  # - title: "Posts"
-  #   url: /posts/
+  - title: "Home"
+    url: /
     
   - title: "CV"
     url: /cv/
