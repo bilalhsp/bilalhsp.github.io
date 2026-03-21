@@ -21,7 +21,7 @@ entries_layout: list
     <p style="margin-top:6px;">
       {{ post.summary | default: post.excerpt | strip_html | truncate: 140 }}
     </p>
-    <small>{{ post.date | date: "%b %d, %Y" }}</small>
+    <!-- <small>{{ post.date | date: "%b %d, %Y" }}</small> -->
   </div>
 
 </div>
