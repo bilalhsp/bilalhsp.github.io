@@ -2,11 +2,11 @@
 layout: archive
 title: "Blogs"
 permalink: /blogs/
-author_profile: true
+entries_layout: list
 ---
 
-# Blogs
+{% include base_path %}
 
-Coming soon...
-
-Keep waiting...
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
