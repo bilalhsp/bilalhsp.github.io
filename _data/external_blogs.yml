@@ -1,0 +1,11 @@
+- title: "Pretraining wav2vec2 using Huggingface Trainer API"
+  date: 2024-11-03
+  url: "https://blog.gopenai.com/pretraining-wav2vec2-using-huggingface-trainer-api-19fbf2fc6bf2"
+  thumbnail: /assets/drifting.png
+  summary: "A practical tutorial on pretraining wav2vec2 from scratch using the Hugging Face Trainer API."
+
+- title: "How Neural Networks Learn: A Probabilistic Viewpoint"
+  date: 2022-07-14
+  url: "https://medium.com/data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2"
+  thumbnail: /assets/drifting.png
+  summary: "An intuitive discussion of neural network learning from a probabilistic perspective."
