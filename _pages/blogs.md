@@ -11,7 +11,7 @@ entries_layout: list
 
   {% if post.thumbnail %}
     <img src="{{ post.thumbnail | relative_url }}"
-         style="width:140px; height:90px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+         style="width:160px; height:100px; object-fit:cover; border-radius:6px; flex-shrink:0;">
   {% endif %}
 
   <div>
@@ -33,7 +33,7 @@ entries_layout: list
 
   {% if post.thumbnail %}
     <img src="{{ post.thumbnail | relative_url }}"
-         style="width:140px; height:90px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+         style="width:160px; height:100px; object-fit:cover; border-radius:6px; flex-shrink:0;">
   {% endif %}
 
   <div>
