@@ -58,15 +58,6 @@ I am interested in exploring principled approaches for probabilistic learning in
 - **Pretraining wav2vec2 Using Hugging Face Trainer API**  
   [Read on Medium](https://medium.com/gopenai/pretraining-wav2vec2-using-huggingface-trainer-api-19fbf2fc6bf2)
 
----
-
-## 🎯 Research Interests
-
-- Diffusion and score-based generative modeling  
-- Inverse problems and probabilistic inference  
-- Multi-modal learning  
-- Computational imaging  
-- Neural representation modeling  
 
 ---
 
