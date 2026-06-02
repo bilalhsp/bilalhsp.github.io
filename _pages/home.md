@@ -10,12 +10,11 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786).
+PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786). I did BS in Electrical Engineering from UET Lahore, Pakistan and worked for approximately 6 years as Instrumentation Engineer before starting PhD.
 
-My research focuses on **deep generative modeling**, particularly **diffusion and score-based methods**, with applications to inverse problems and neural data modeling. I am broadly interested in generative modeling (diffusion, latent, and related continuous-time approaches), multi-modal learning, and computational imaging, and in developing principled methods that bridge theory and real-world deployment.
+My PhD is focussed on data-driven methods for computational Neuroscience problems. Specifically, I have been working on using Deep Neural Networks trained for ASR as encoding models of neurons in the auditory cortex. I have shown that these DNN based encoding models can explain spiking activity of small group of neurons at fine temporal resolution. Using these encoding models I am working on understanding their tuning preferences of these neurons by formulating the problem as an inverse problem and using generative Diffusion Model as a learned prior. I have also proposed an efficient algorithm for solving general inverse problems using Diffusion Models named Restart Posterior Sampling (RePS). I am also working on the use generative modelling approaches for synthesizing speech from stereo-EEG recordings. The challenging aspect of this problem is small amount of labelled data. 
 
-Prior to my PhD, I worked for over five years as an **Instrumentation & Control Engineer**, where I independently maintained and upgraded distributed control systems and led a team of six technicians. This experience strengthened my ability to execute high-stakes technical work with precision and rigor.
-
+I am interested in exploring principled approaches for probabilistic learning in low-data regimes, generating modelling in general and its engineering applications. 
 ---
 
 ## 📢 Recent Updates
