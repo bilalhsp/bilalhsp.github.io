@@ -15,7 +15,7 @@ PhD candidate in Electrical & Computer Engineering at Purdue University, advised
 My PhD is focussed on data-driven methods for computational Neuroscience problems. Specifically, I have been working on using Deep Neural Networks trained for ASR as encoding models of neurons in the auditory cortex. I have shown that these DNN based encoding models can explain spiking activity of small group of neurons at fine temporal resolution. Using these encoding models we can understand the tuning preferences of these neurons by formulating the problem as an inverse problem and using generative Diffusion Model as a learned prior. 
 I have also proposed an efficient algorithm for solving general inverse problems using Diffusion Models named Restart Posterior Sampling (RePS). I am also working on the use generative modelling approaches for synthesizing speech from stereo-EEG recordings. The challenging aspect of this problem is small amount of labelled data. 
 
-I am interested in exploring principled approaches for probabilistic learning in low-data regimes, generating modelling in general and its engineering applications.
+I am interested in exploring principled approaches for probabilistic learning in low-data regimes, generative modelling in general and its engineering applications.
 
 ---
 
