@@ -9,7 +9,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify;">
+
 PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786). I did BS in Electrical Engineering from UET Lahore, Pakistan and worked for approximately 6 years as Instrumentation Engineer before starting PhD.
 
 My PhD is focused on data-driven methods for computational neuroscience problems. Specifically, I have been working on using deep neural networks trained for ASR as encoding models of neurons in the auditory cortex. I have shown that these DNN-based encoding models can explain the spiking activity of a small group of neurons at fine temporal resolution. Using these encoding models, we can understand the tuning preferences of these neurons by formulating the problem as an inverse problem and using a generative diffusion model as a learned prior.
@@ -18,7 +18,7 @@ I have also proposed an efficient algorithm for solving general inverse problems
 
 
 I am interested in exploring principled approaches for probabilistic learning in low-data regimes, generative modeling in general, and its engineering applications.
-</div>
+
 ---
 
 ## 📢 Recent Updates
