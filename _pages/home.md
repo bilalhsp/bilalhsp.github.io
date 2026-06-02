@@ -29,7 +29,7 @@ I am interested in exploring principled approaches for probabilistic learning in
 - 📰 **PLOS Computational Biology (2025):**  
   *Deep Neural Networks Explain Spiking Activity in Auditory Cortex*
 
-- 🎓 Teaching Assistant — ECE-60131: General Models (Fall 2025)
+- 🎓 Teaching Assistant — Generative Modeling (Graduate Course) (Fall 2025)
 
 ---
 
