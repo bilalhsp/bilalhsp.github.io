@@ -17,7 +17,7 @@ My PhD is focused on data-driven methods for computational neuroscience problems
 I have also proposed an efficient algorithm for solving general inverse problems using diffusion models, named Restart Posterior Sampling (RePS). In addition, I am working on the use of generative modeling approaches for synthesizing speech from stereo-EEG recordings. The challenging aspect of this problem is the small amount of labeled data.
 
 
-I am interested in exploring principled approaches for probabilistic learning in low-data regimes, generative modeling in general, and its engineering applications.
+I am interested in probabilistic generative modeling, inverse problems, and computational imaging, with applications to computational photography and neuroscience.
 
 ---
 
