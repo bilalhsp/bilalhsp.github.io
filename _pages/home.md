@@ -52,17 +52,6 @@ I am interested in probabilistic generative modeling, inverse problems, and comp
 
 ---
 
-## ✍️ Writing
-
-- **How Neural Networks Learn: A Probabilistic Viewpoint**  
-  [Read on Medium](https://medium.com/towards-data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2)
-
-- **Pretraining wav2vec2 Using Hugging Face Trainer API**  
-  [Read on Medium](https://medium.com/gopenai/pretraining-wav2vec2-using-huggingface-trainer-api-19fbf2fc6bf2)
-
-
----
-
 ## 🌱 Outside Research
 
 - Reading: Investing, economics, business  
