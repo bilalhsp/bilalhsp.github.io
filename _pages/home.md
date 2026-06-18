@@ -23,20 +23,20 @@ I am interested in probabilistic generative modeling, inverse problems, and comp
 
 ## 📢 Recent Updates
 
-- 🔥 **New arXiv paper (2025):**  
-  *Solving Diffusion Inverse Problems with Restart Posterior Sampling*  
+- 🎉 **ECCV 2026 Acceptance:**  
+  *Solving Diffusion Inverse Problems with Restart Posterior Sampling* has been accepted to ECCV 2026.
 
 - 📰 **PLOS Computational Biology (2025):**  
   *Deep Neural Networks Explain Spiking Activity in Auditory Cortex*
 
-- 🎓 Teaching Assistant — Generative Modeling (Graduate Course) (Fall 2025)
+- 🎓 Teaching Assistant — Generative Modeling (Graduate Course) (Spring 2024)
 
 ---
 
 ## 🔬 Publications
 
 - **Solving Diffusion Inverse Problems with Restart Posterior Sampling**  
-  *arXiv, 2025*  
+  *ECCV, 2026*  
   [arXiv](https://arxiv.org/abs/2511.20705)
 
 - **Deep Neural Networks Explain Spiking Activity in Auditory Cortex**  
