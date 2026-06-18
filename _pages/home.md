@@ -33,18 +33,6 @@ I am interested in probabilistic generative modeling, inverse problems, and comp
 
 ---
 
-## 🔬 Publications
-
-- **Solving Diffusion Inverse Problems with Restart Posterior Sampling**  
-  *ECCV, 2026*  
-  [arXiv](https://arxiv.org/abs/2511.20705)
-
-- **Deep Neural Networks Explain Spiking Activity in Auditory Cortex**  
-  *PLOS Computational Biology, 2025*  
-  [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334) 
-
----
-
 ## 🎤 Conferences
 
 - **COSYNE 2023** — Montreal, Canada  
