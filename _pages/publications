@@ -31,21 +31,23 @@ permalink: /publications/
       </p>
     {% endif %}
 
-    <p style="margin-top:6px;">
-      {{ pub.summary | default: pub.excerpt | strip_html | truncate: 180 }}
-    </p>
+    {% if pub.summary %}
+      <p style="margin-top:6px;">
+        {{ pub.summary }}
+      </p>
+    {% endif %}
 
     <p>
       {% if pub.paperurl %}
-        <a href="{{ pub.paperurl }}">Paper</a>
+        <a href="{{ pub.paperurl }}" target="_blank" rel="noopener noreferrer">Paper</a>
       {% endif %}
 
       {% if pub.codeurl %}
-        | <a href="{{ pub.codeurl }}">Code</a>
+        | <a href="{{ pub.codeurl }}" target="_blank" rel="noopener noreferrer">Code</a>
       {% endif %}
 
       {% if pub.arxivurl %}
-        | <a href="{{ pub.arxivurl }}">arXiv</a>
+        | <a href="{{ pub.arxivurl }}" target="_blank" rel="noopener noreferrer">arXiv</a>
       {% endif %}
     </p>
   </div>
