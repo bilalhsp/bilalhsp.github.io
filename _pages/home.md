@@ -28,7 +28,7 @@ More broadly, I am interested in diffusion and flow models, inverse problems, an
 - 📰 **PLOS Computational Biology (2025):**  
   *Deep Neural Networks Explain Spiking Activity in Auditory Cortex*
 
-- 🎓 Teaching Assistant — Generative Modeling (Graduate Course) (Spring 2024)
+- 🎓 Teaching Assistant — Generative Modeling (Graduate Course) (Fall 2025)
 
 ---
 
