@@ -10,14 +10,13 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786). I did BS in Electrical Engineering from UET Lahore, Pakistan and worked for approximately 6 years as Instrumentation Engineer before starting PhD.
+PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786). I received my B.S. in Electrical Engineering from UET Lahore, Pakistan, and worked for approximately six years as an Instrumentation Engineer before beginning my PhD.
 
-My PhD is focused on data-driven methods for computational neuroscience problems. Specifically, I have been working on using deep neural networks trained for ASR as encoding models of neurons in the auditory cortex. I have shown that these DNN-based encoding models can explain the spiking activity of a small group of neurons at fine temporal resolution. Using these encoding models, we can understand the tuning preferences of these neurons by formulating the problem as an inverse problem and using a generative diffusion model as a learned prior.
+My PhD research focuses on applying deep learning to problems in computational neuroscience. Specifically, I investigate the use of pretrained automatic speech recognition (ASR) models as encoding models of neuronal responses in the auditory cortex, and generative diffusion priors for characterizing the tuning preferences of individual neurons. This research is conducted in collaboration with an experimental neuroscience laboratory conducting electrophysiology experiments in monkeys.
 
-I have also proposed an efficient algorithm for solving general inverse problems using diffusion models, named Restart Posterior Sampling (RePS). In addition, I am working on the use of generative modeling approaches for synthesizing speech from stereo-EEG recordings. The challenging aspect of this problem is the small amount of labeled data.
+I have also worked on diffusion-based posterior sampling algorithms for inverse problems in computational imaging, resulting in the Restart Posterior Sampling (RePS) framework. In addition, I am developing generative models for synthesizing speech from stereo-EEG recordings, where a central challenge is the limited amount of labeled training data.
 
-
-I am interested in probabilistic generative modeling, inverse problems, and computational imaging, with applications to computational photography and neuroscience.
+More broadly, I am interested in diffusion and flow models, inverse problems, and computational imaging, with applications spanning computational photography and neuroscience.
 
 ---
 
