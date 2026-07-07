@@ -10,13 +10,11 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786). I received my B.S. in Electrical Engineering from UET Lahore, Pakistan, and worked for approximately six years as an Instrumentation Engineer before beginning my PhD.
+PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786). I received my B.S. in Electrical Engineering from UET Lahore, Pakistan, and worked for approximately six years as an Instrumentation & Control Engineer before beginning my PhD.
 
-My PhD research focuses on applying deep learning to problems in computational neuroscience. Specifically, I investigate the use of pretrained automatic speech recognition (ASR) models as encoding models of neuronal responses in the auditory cortex, and generative diffusion priors for characterizing the tuning preferences of individual neurons. This research is conducted in collaboration with an experimental neuroscience laboratory conducting electrophysiology experiments in monkeys.
+My PhD research focuses on applying deep learning to inverse problems and computational neuroscience. Specifically, my research on diffusion-based posterior sampling algorithms for image restoration led to the development of the Restart Posterior Sampling (RePS) framework. In neuroscience, I investigate the use of pretrained automatic speech recognition (ASR) models as encoding models of neuronal responses in the auditory cortex, as well as generative diffusion priors for characterizing the tuning preferences of individual neurons.
 
-I have also worked on diffusion-based posterior sampling algorithms for inverse problems in computational imaging, resulting in the Restart Posterior Sampling (RePS) framework. In addition, I am developing generative models for synthesizing speech from stereo-EEG recordings, where a central challenge is the limited amount of labeled training data.
-
-More broadly, I am interested in diffusion and flow models, inverse problems, and computational imaging, with applications spanning computational photography and neuroscience.
+More broadly, I am interested in diffusion and flow models, inverse problems, and their applications to computational imaging and neuroscience.
 
 ---
 
@@ -37,6 +35,16 @@ More broadly, I am interested in diffusion and flow models, inverse problems, an
 - **COSYNE 2023** — Montreal, Canada  
   Poster: *Understanding Auditory Cortex with Deep Neural Networks*
 
+---
+
+## 👥 Mentorship
+
+- **Ying Shen** — M.S. Student (2025)  
+  Research topic: Modeling the auditory cortex using automatic speech recognition (ASR) models with generalized linear (Poisson) models.
+
+- **Brian Yuan** — M.S. Student (2024)  
+  Research topic: Unsupervised pretraining for speech decoding using self-supervised speech representations.
+  
 ---
 
 ## 🌱 Outside Research
