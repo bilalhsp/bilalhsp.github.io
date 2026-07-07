@@ -12,7 +12,7 @@ redirect_from:
 
 PhD candidate in Electrical & Computer Engineering at Purdue University, advised by Prof. [Joseph Makin](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=242786). I received my B.S. in Electrical Engineering from UET Lahore, Pakistan, and worked for approximately six years as an Instrumentation & Control Engineer before beginning my PhD.
 
-My PhD research focuses on applying deep learning to inverse problems and computational neuroscience. Specifically, my research on diffusion-based posterior sampling algorithms for image restoration led to the development of the Restart Posterior Sampling (RePS) framework. In neuroscience, I investigate the use of pretrained automatic speech recognition (ASR) models as encoding models of neuronal responses in the auditory cortex, as well as generative diffusion priors for characterizing the tuning preferences of individual neurons.
+My PhD research focuses on applying deep learning to inverse problems and computational neuroscience. In inverse problems, I developed the Restart Posterior Sampling (RePS) framework, a diffusion-based posterior sampling algorithm for image restoration. In neuroscience, I investigate the use of pretrained automatic speech recognition (ASR) models as encoding models of neuronal responses in the auditory cortex, as well as generative diffusion priors for characterizing the tuning preferences of individual neurons.
 
 More broadly, I am interested in diffusion and flow models, inverse problems, and their applications to computational imaging and neuroscience.
 
