@@ -81,7 +81,7 @@ function renderWriting() {
 
 function showArchive() {
   const categories = [...new Set(content.announcements.map(item => item.category))];
-  showDialog('News & announcements', `<h2>All announcements</h2><div class="archive-controls"><input id="update-search" class="field" type="search" placeholder="Search announcements" aria-label="Search announcements"><select id="update-category" class="field" aria-label="Announcement category"><option>All categories</option>${categories.map(category => `<option>${escapeHTML(category)}</option>`).join('')}</select></div><div id="archive-list" aria-live="polite"></div>`);
+  showDialog('Highlights & announcements', `<h2>All announcements</h2><div class="archive-controls"><input id="update-search" class="field" type="search" placeholder="Search announcements" aria-label="Search announcements"><select id="update-category" class="field" aria-label="Announcement category"><option>All categories</option>${categories.map(category => `<option>${escapeHTML(category)}</option>`).join('')}</select></div><div id="archive-list" aria-live="polite"></div>`);
   const render = () => {
     const query = $('#update-search').value.toLowerCase();
     const category = $('#update-category').value;
@@ -142,7 +142,7 @@ async function init() {
     renderProjects();
     renderWriting();
   } catch {
-    $('#updates').innerHTML = '<p class="loading-error">News could not be loaded. Please reload this page.</p>';
+    $('#updates').innerHTML = '<p class="loading-error">Highlights could not be loaded. Please reload this page.</p>';
     $('#projects-grid').innerHTML = '<p class="empty">Projects are available on <a href="https://github.com/bilalhsp">GitHub</a>.</p>';
   }
 }
@@ -162,7 +162,7 @@ function searchRecords() {
   addElement($('.learning-note'), 'Projects', 'Planned explorations in AI systems & LLM training');
   addElement($('.personal-note'), 'About', 'Beyond research');
   if (content) {
-    for (const [collection, category, label] of [['announcements', 'News', 'Announcement'], ['projects', 'Project', 'Project'], ['writing', 'Writing', 'Writing']]) {
+    for (const [collection, category, label] of [['announcements', 'Highlights', 'Announcement'], ['projects', 'Project', 'Project'], ['writing', 'Writing', 'Writing']]) {
       for (const item of content[collection]) records.push({ title: item.title, category, text: [item.title, item.summary, item.body, item.category, item.date, ...(item.tags || [])].join(' '), item, label });
     }
   }

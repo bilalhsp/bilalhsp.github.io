@@ -11,7 +11,7 @@
     },
     {
       "id": "pai-2026",
-      "date": "2026",
+      "date": "2026-10",
       "category": "Teaching & mentorship",
       "title": "Section leader for Probability for AI",
       "summary": "Volunteering as a section leader for Stanford’s free, open online Probability for AI course in its ongoing 2026 offering.",
@@ -20,7 +20,7 @@
     },
     {
       "id": "eccv-2026",
-      "date": "2026",
+      "date": "2026-06",
       "category": "Research",
       "title": "Restart Posterior Sampling accepted at ECCV 2026",
       "summary": "Our work on diffusion-based posterior sampling for inverse problems has been accepted at ECCV 2026.",
