@@ -1,0 +1,99 @@
+{
+  "announcements": [
+    {
+      "id": "purdue-google-award",
+      "date": "2026-10",
+      "category": "Award",
+      "title": "Most Impactful Idea — Purdue + Google AI Summit",
+      "summary": "I received the Most Impactful Idea award at the Purdue + Google AI Summit in late October 2026.",
+      "url": "",
+      "body": "A recent milestone at the intersection of research and practical impact: I received the Most Impactful Idea award at the Purdue + Google AI Summit in late October 2026."
+    },
+    {
+      "id": "pai-2026",
+      "date": "2026",
+      "category": "Teaching & mentorship",
+      "title": "Section leader for Probability for AI",
+      "summary": "Volunteering as a section leader for Stanford’s free, open online Probability for AI course in its ongoing 2026 offering.",
+      "url": "https://pai.stanford.edu/",
+      "body": "I’m volunteering as a section leader for Probability for AI (PAI), a free, open online course from Stanford, during its ongoing 2026 offering."
+    },
+    {
+      "id": "eccv-2026",
+      "date": "2026",
+      "category": "Research",
+      "title": "Restart Posterior Sampling accepted at ECCV 2026",
+      "summary": "Our work on diffusion-based posterior sampling for inverse problems has been accepted at ECCV 2026.",
+      "url": "https://arxiv.org/abs/2511.20705",
+      "body": "Solving Diffusion Inverse Problems with Restart Posterior Sampling, with Joseph G. Makin, has been accepted at ECCV 2026. RePS uses pretrained diffusion models to solve linear and nonlinear inverse problems."
+    },
+    {
+      "id": "generative-teaching",
+      "date": "2025-09",
+      "category": "Teaching & mentorship",
+      "title": "Teaching assistant: Generative Modeling",
+      "summary": "Supporting the graduate Generative Modeling course at Purdue in Fall 2025.",
+      "url": "",
+      "body": "Teaching assistant for the graduate Generative Modeling course at Purdue University in Fall 2025."
+    },
+    {
+      "id": "plos-2025",
+      "date": "2025-08",
+      "category": "Research",
+      "title": "New paper in PLOS Computational Biology",
+      "summary": "Deep Neural Networks Explain Spiking Activity in Auditory Cortex is published.",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013334",
+      "body": "Our work studies how representations learned by deep neural networks explain spiking activity in auditory cortex. Code and analysis tools are available on GitHub."
+    }
+  ],
+  "projects": [
+    {
+      "id": "diffusion-hub",
+      "title": "Diffusion Hub",
+      "category": "Generative models",
+      "status": "Open source",
+      "summary": "A framework for training diffusion models across different applications.",
+      "url": "https://github.com/bilalhsp/diffusion-hub",
+      "body": "A shared framework for training diffusion models across applications. Explore the repository for implementation details and notebooks.",
+      "tags": [
+        "Diffusion",
+        "Python",
+        "Training"
+      ]
+    },
+    {
+      "id": "audio-dnn",
+      "title": "Audio DNN",
+      "category": "Audio & speech",
+      "status": "Open source",
+      "summary": "Training deep neural networks for audio processing and representation learning.",
+      "url": "https://github.com/bilalhsp/audio-dnn",
+      "body": "Code for training deep neural networks for audio processing, part of my broader work on sound representations and auditory neuroscience.",
+      "tags": [
+        "Audio",
+        "Deep learning",
+        "Python"
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "id": "neural-networks-probabilistic-viewpoint",
+      "title": "How Neural Networks Learn: A Probabilistic Viewpoint",
+      "category": "Explainer",
+      "date": "2024-12-26",
+      "summary": "Understanding neural network loss functions through probability, entropy, and cross-entropy.",
+      "url": "https://medium.com/data-science/how-neural-networks-learn-a-probabilistic-viewpoint-0f6a78dc58e2",
+      "body": "A probabilistic introduction to neural network training: entropy, cross-entropy, KL divergence, and the loss functions used for classification and regression."
+    },
+    {
+      "id": "wav2vec",
+      "title": "Pretraining wav2vec2 with the Hugging Face Trainer API",
+      "category": "Tutorial",
+      "date": "2024-11-02",
+      "summary": "A practical walkthrough of pretraining a speech representation model from scratch.",
+      "url": "https://blog.gopenai.com/pretraining-wav2vec2-using-huggingface-trainer-api-19fbf2fc6bf2",
+      "body": "A practical tutorial on pretraining wav2vec2 from scratch using the Hugging Face Trainer API."
+    }
+  ]
+}
